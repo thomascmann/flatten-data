@@ -55,7 +55,7 @@ demo1 = {
 	},
 	"101": {
 		"name": "Alex",
-		"job": "laywer",
+		"job": "lawyer",
 		"field": "law",
 		"grades": [{
 			"semester": "2008F",
@@ -141,11 +141,11 @@ Out:
 12	100	    	psychology	Advanced Psychology	      	A+	                  2011S	          student	Tom
 13	100	    	psychology	Writing Seminar II	      	A-	                  2011S	          student	Tom
 14	100   		psychology	Sailing	                  	B+	                  2011S	          student	Tom
-15	101	    	law	        Swimming 101	            B+	                  2008F	          laywer	Alex
-16	101	    	law	        Food 101	                A-	                  2008F	          laywer	Alex
-17	101	    	law	        Law Seminar	              	A	                  2008F	          laywer	Alex
-18	101	    	law	        Food 102	                A-	                  2009S	          laywer	Alex
-19	101	    	law	        Advanced Law	            F	                  2009S	          laywer	Alex
-20	101	   		law	        Writing with a Writer   	A-	                  2009S	          laywer	Alex
+15	101	    	law	        Swimming 101	            B+	                  2008F	          lawyer	Alex
+16	101	    	law	        Food 101	                A-	                  2008F	          lawyer	Alex
+17	101	    	law	        Law Seminar	              	A	                  2008F	          lawyer	Alex
+18	101	    	law	        Food 102	                A-	                  2009S	          lawyer	Alex
+19	101	    	law	        Advanced Law	            F	                  2009S	          lawyer	Alex
+20	101	   		law	        Writing with a Writer   	A-	                  2009S	          lawyer	Alex
 ```
 
