@@ -125,27 +125,27 @@ json_normalize(flatten_data(demo1))
 ```
 Out:
 ```
-	_ID_VAR_	field       grades_classes_class_name	grades_classes_grade  grades_semester job   	name
-0   102	    	culinary    Molecular Biology	      	A+	                  2015F	          chef		Lilly
-1   102	    	culinary    Organic Chemistry			A+	                  2015F	          chef		Lilly
-2   102	    	culinary    Organic Food	          	A+	                  2015F	          chef		Lilly
-3   102	    	culinary    Russian Dressing	      	C	                  2015F	          chef		Lilly
-4   102	    	culinary  	Weird Food 101            	C+	                  2016S	          chef		Lilly
-5   102	    	culinary  	Food Psychology          	A+	                  2016S	          chef		Lilly
-6   102	    	culinary  	Acting Seminar				A-	                  2016S	          chef		Lilly
-7   102	    	culinary    Fencing                  	A+	                  2016S	          chef		Lilly
-8   100	    	psychology	Calculus 101	            A+	                  2010F	          student	Tom
-9   100	    	psychology	Psychology 101	          	A+	                  2010F	          student	Tom
-10  100	    	psychology	Writing Seminar	          	A	                  2010F	          student	Tom
-11	100	    	psychology	Screenwriting 101       	A-	                  2011S	          student	Tom
-12	100	    	psychology	Advanced Psychology	      	A+	                  2011S	          student	Tom
-13	100	    	psychology	Writing Seminar II	      	A-	                  2011S	          student	Tom
-14	100   		psychology	Sailing	                  	B+	                  2011S	          student	Tom
-15	101	    	law	        Swimming 101	            B+	                  2008F	          lawyer	Alex
-16	101	    	law	        Food 101	                A-	                  2008F	          lawyer	Alex
-17	101	    	law	        Law Seminar	              	A	                  2008F	          lawyer	Alex
-18	101	    	law	        Food 102	                A-	                  2009S	          lawyer	Alex
-19	101	    	law	        Advanced Law	            F	                  2009S	          lawyer	Alex
-20	101	   		law	        Writing with a Writer   	A-	                  2009S	          lawyer	Alex
+     _ID_VAR_ field      grades_classes_class_name grades_classes_grade  grades_semester job    name
+0    102      culinary   Molecular Biology         A+                    2015F           chef    Lilly
+1    102      culinary   Organic Chemistry         A+                    2015F           chef    Lilly
+2    102      culinary   Organic Food              A+                    2015F           chef    Lilly
+3    102      culinary   Russian Dressing          C                     2015F           chef    Lilly
+4    102      culinary   Weird Food 101            C+                    2016S           chef    Lilly
+5    102      culinary   Food Psychology           A+                    2016S           chef    Lilly
+6    102      culinary   Acting Seminar            A-                    2016S           chef    Lilly
+7    102      culinary   Fencing                   A+                    2016S           chef    Lilly
+8    100      psychology Calculus 101              A+                    2010F           student Tom
+9    100      psychology Psychology 101            A+                    2010F           student Tom
+10   100      psychology Writing Seminar           A                     2010F           student Tom
+11   100      psychology Screenwriting 101         A-                    2011S           student Tom
+12   100      psychology Advanced Psychology       A+                    2011S           student Tom
+13   100      psychology Writing Seminar II        A-                    2011S           student Tom
+14   100      psychology Sailing                   B+                    2011S           student Tom
+15   101      law        Swimming 101              B+                    2008F           lawyer  Alex
+16   101      law        Food 101                  A-                    2008F           lawyer  Alex
+17   101      law        Law Seminar               A                     2008F           lawyer  Alex
+18   101      law        Food 102                  A-                    2009S           lawyer  Alex
+19   101      law        Advanced Law              F                     2009S           lawyer  Alex
+20   101      law        Writing with a Writer     A-                    2009S           lawyer  Alex
 ```
 
