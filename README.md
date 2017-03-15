@@ -125,7 +125,7 @@ json_normalize(flatten_data(demo1))
 ```
 Out:
 ```
-     _ID_VAR_ field      grades_classes_class_name grades_classes_grade  grades_semester job    name
+     _ID_VAR_ field      grades_classes_class_name grades_classes_grade  grades_semester job     name
 0    102      culinary   Molecular Biology         A+                    2015F           chef    Lilly
 1    102      culinary   Organic Chemistry         A+                    2015F           chef    Lilly
 2    102      culinary   Organic Food              A+                    2015F           chef    Lilly
